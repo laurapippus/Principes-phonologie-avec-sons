@@ -67,6 +67,12 @@ h3 {
 	vertical-align: super;
 	font-size: x-small;
 }
+.notes_bas {
+	font-size: smaller;
+}
 .sons {
 	text-align: center;
+}
+.italique {
+	font-style: italic;
 }
