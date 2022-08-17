@@ -52,7 +52,7 @@ table {
 	border-spacing: 0;
 }
 h1 {
-	font-size: 250%;
+	font-size: 300%;
 	font-weight: bold;
 	text-align: center;
 	color: rgb(4, 82, 82);
@@ -61,6 +61,10 @@ h2 {
 	font-size: 200%;
 	color:darkcyan;
 }
+/*#auteur {
+	text-align: center;
+	color: rgb(4, 82, 82);
+}*/
 h3 {
 	font-size: 150%;
 	color: rgb(32, 179, 179);
