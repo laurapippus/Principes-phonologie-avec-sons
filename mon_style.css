@@ -27,6 +27,9 @@ h3 {
 p {
     text-indent: 50px;
 }
+.p_sans_indentation {
+    text-indent: 0px;
+}
 .notes {
 	color: red; /* je laisse en rouge pour les retrouver plus facilement après dans le texte */
 	vertical-align: super;
