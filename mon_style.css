@@ -1,0 +1,44 @@
+body {
+	line-height: 1.2;
+	background-color: rgb(222, 221, 221);
+	font-family: Arial;
+	text-align: justify;
+	text-justify: auto;
+	margin: 50px;
+}
+h1 {
+	font-size: 300%;
+	font-weight: bold;
+	text-align: center;
+	color: rgb(4, 82, 82);
+}
+h2 {
+	font-size: 200%;
+	color:darkcyan;
+}
+/*#auteur {
+	text-align: center;
+	color: rgb(4, 82, 82);
+}*/
+h3 {
+	font-size: 150%;
+	color: rgb(32, 179, 179);
+}
+.notes {
+	color: red; /* je laisse en rouge pour les retrouver plus facilement après dans le texte */
+	vertical-align: super;
+	font-size: x-small;
+}
+.notes_bas {
+	font-size: smaller;
+}
+.sons {
+	text-align: center;
+	font-style: italic;
+}
+.italique {
+	font-style: italic;
+}
+.gras {
+	font-weight: bold;
+}
