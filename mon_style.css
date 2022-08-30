@@ -4,7 +4,7 @@ body {
 	font-family: Arial;
 	text-align: justify;
 	text-justify: auto;
-	margin: 50px;
+	margin: 100px;
 }
 h1 {
 	font-size: 300%;
@@ -24,6 +24,9 @@ h3 {
 	font-size: 150%;
 	color: rgb(32, 179, 179);
 }
+p {
+    text-indent: 50px;
+}
 .notes {
 	color: red; /* je laisse en rouge pour les retrouver plus facilement après dans le texte */
 	vertical-align: super;
@@ -41,4 +44,9 @@ h3 {
 }
 .gras {
 	font-weight: bold;
+}
+@media (max-width: 600px) {
+    body {
+        margin: 10px;
+    }
 }
