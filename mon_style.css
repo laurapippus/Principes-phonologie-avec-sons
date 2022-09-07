@@ -4,7 +4,10 @@ body {
 	font-family: Arial;
 	text-align: justify;
 	text-justify: auto;
-	margin: 100px;
+	margin-right: 200px;
+	margin-left: 200px;
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 h1 {
 	font-size: 300%;
@@ -23,6 +26,9 @@ h2 {
 h3 {
 	font-size: 150%;
 	color: rgb(32, 179, 179);
+}
+main {
+	font-size: 120%;
 }
 p {
     text-indent: 50px;
