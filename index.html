@@ -9,6 +9,19 @@
     <title>Principes de phonologie</title>
 </head>
 <body>
+    <audio src="sons/a.ogg" id="a"></audio>
+    <audio src="sons/a_posterieur.ogg" id="a_posterieur"></audio>
+    <audio src="sons/ae.ogg" id="ae"></audio>
+    <audio src="sons/e.ogg" id="e"></audio>
+    <audio src="sons/e_rond.ogg" id="e_rond"></audio>
+    <audio src="sons/e_rond_inverse.ogg" id="e_rond_inverse"></audio>
+    <audio src="sons/i.ogg" id="i"></audio>
+    <audio src="sons/o_incomplet.ogg" id="o_incomplet"></audio>
+    <audio src="sons/the.ogg" id="the"></audio>
+    <audio src="sons/u.ogg" id="u"></audio>
+    <audio src="sons/w.ogg" id="w"></audio>
+    <audio src="sons/y.ogg" id="y"></audio>
+    
     <header>
         <h1>Principes de phonologie</h1> <br><br>
         <!-- <h2 id="auteur">Nikolai Troubetzkoy</h2>  JE NE SAIS PAS SI JE METS -->
@@ -30,9 +43,9 @@
         <p id="p8">Dans les systèmes quadrangulaires à deux classes, ce sont les deux premiers cas qui se présentent d'ordinaire, c'est-à- dire la corrélation de place de la langue ou la corrélation de forme des lèvres dans leur type pur. Tout dépend ici de la façon dont sont produits les deux phonèmes vocaliques ayant le degré d'aperture maximum. Si tous deux sont non-arrondis, l'un d'eux doit être une voyelle postérieure, l'autre une voyelle antérieure. Par là l'opposition de place de la langue devient aussi dans les autres couples du même système une opposition bilatérale proportionnelle. Par contre le fait que les voyelles postérieures d'aperture non maxima sont arrondies n'est pas essentiel au point de vue du système. Comme exemple d'un tel système quadrangulaire on peut alléguer le système vocalique de ces dialectes monténégrins où les « semi-voyelles » du vieux-slave sont devenues non pas <span class="italique">&#x0251;</span> (comme d'habitude en serbo-croate), mais un æ particulièrement ouvert (intermédiaire entre <span class="italique">a</span> et <span class="italique">e</span>)<span class="notes" id="note_6">6</span> :</p> <br>
 
         <div class="sons"> 
-            <span id="a">a</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span id="ae">æ</span> <br>
-            <span id="o">o</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span id="e">e</span> <br>
-            <span id="u">u</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span id="i">i</span> 
+            <input type="button" value="a" onclick="jouerVoyelle()" class="bouton"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="button" value="ae" onclick="jouerVoyelle()" class="bouton"> <br>
+            <input type="button" value="o" onclick="jouerVoyelle()" class="bouton"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="button" value="e" onclick="jouerVoyelle()" class="bouton"> <br>
+            <input type="button" value="u" onclick="jouerVoyelle()" class="bouton"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="button" value="i" onclick="jouerVoyelle()" class="bouton"> 
         </div> <br>
         
         <p id="p9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Par contre si la voyelle « sombre » d'aperture maxima est arrondie et si celle qui fait paire avec elle est une voyelle non-arrondie, sans être une voyelle antérieure, alors c'est seulement la forme des lèvres qui est phonologiquement pertinente pour cette paire de voyelles, et par suite c'est exclusivement l'opposition de forme des lèvres qui a aussi une valeur distinctive pour toutes les autres voyelles du même système, tandis que le caractère antérieur des voyelles non- arrondies ne joue que comme un phénomène secondaire, non essentiel. Comme exemple d'un tel système quadrangulaire on pourrait alléguer le système vocalique du dialecte polonais de Pɬaza (dans la petite Pologne occidentale)<span class="notes" id="note_7">7</span> :</p> <br>
@@ -80,12 +93,13 @@
             <span id="u">u</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span id="i">i</span>
         </div> <br>
         <p class="p_sans_indentation" id="p16.1">et après <span class="italique">y</span>, <span class="italique">ö</span>, <span class="italique">ä</span> les voyelles</p> <br>
+        
         <div class="sons">
             <span id="a_umlaut">ä</span> <br>
             <span id="o_umlaut">ö</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span id="e">e</span> <br>
             <span id="y">y</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span id="i">i</span>
         </div> <br> 
-        </p>
+        
         <p id="p17">Les classes de timbre se répartissent tout autrement dans un système vocalique à trois classes comme le polabe<span class="notes" id="note_14">14</span>. En polabe existait la corrélation de mouillure consonantique, qui était neutralisée devant toutes les voyelles antérieures et devant la voyelle d'aperture maxima <span class="italique">a</span> qui se trouvait en dehors des classes de localisation : de la sorte les voyelles postérieures <span class="italique">u</span>, <span class="italique">o</span>, <span class="italique">ɑ</span> acquéraient une position particulière dans le système. Les oppositions entre les voyelles postérieures et antérieures de même degré d'aperture étaient constantes, non neutralisables ; par contre les oppositions entre voyelles antérieures arrondies et non-arrondies de même degré d'aperture (<span class="italique">ü-i</span>, <span class="italique">ö-ê</span>) étaient neutralisables après <span class="italique">v</span> et <span class="italique">j</span>, les archiphonèmes étant représentés par les voyelles non-arrondies <span class="italique">i</span>, <span class="italique">ê</span>. Par là la classe moyenne de localisation était liée plus étroitement à la classe antérieure. Il existait une certaine hiérarchie entre la corrélation de place de la langue et la corrélation de forme des lèvres : voyelles postérieures - voyelles antérieures arrondies et non-arrondies. Les particularités de forme des lèvres étant phonologiquement non pertinentes pour les voyelles postérieures<span class="notes" id="note_15">15</span>. On peut représenter cela graphiquement de la façon suivante :</p> <br>
 
         <div class="sons"> 
@@ -177,6 +191,12 @@
 
     </aside>
 
+    <script>
+        function jouerVoyelle() {
+            let voyelle = document.getElementById("a");
+            voyelle.play()
+        }
+    </script>
 </body>
 <footer>
     <details open="false"> <span class="gras">Référence de l'&oelig;uvre :</span> Troubetzkoy, N. S. 1949. <span class="italique">Principes de phonologie</span>. Traduit par J. Cantineau. Paris : Librairie C. Klincksieck, 392pp. Disponible <a href="https://ia802706.us.archive.org/22/items/principesdephono00trub/principesdephono00trub.pdf" target="blank">ici</a>.<br>
