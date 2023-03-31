@@ -189,13 +189,38 @@
 
     <div class="notes_bas" id="note24">(24) G. N. Prokofjev, « Sel'kupskij (ost'acko-samojedskij) jazyk », <span class="italique">Naučnoissted. Associacija Instilnta Narodov Severa, Trudy po lingvistike</span> IV, vyp. I, Leningrad 1935.</div> <br>
 
+    <button onclick="versLeHaut()" id="buttonHaut" title="Revenir en haut de la page">Haut de la page</button>
+
     </aside>
 
     <script>
+        
         function jouerVoyelle() {
             let voyelle = document.getElementById("a");
             voyelle.play()
         }
+
+        // Sélectionner le bouton
+        let mybutton = document.getElementById("buttonHaut");
+    
+        // Montrer le bouton lorsque l'utilisateur descend 50px
+        window.onscroll = function() {montrerBouton()};
+    
+        function montrerBouton() {
+            if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+                mybutton.style.display = "block";
+                } 
+            else {
+            mybutton.style.display = "none";
+            }
+        }
+    
+        // Fonction executée lorsqu'on clique sur le bouton
+        function versLeHaut() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+
     </script>
 </body>
 <footer>
