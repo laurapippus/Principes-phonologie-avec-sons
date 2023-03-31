@@ -50,8 +50,8 @@ p {
 .bouton {
 	background-color: rgb(222, 221, 221);
 	font-family: Arial;
-	font-style: italic;
 	font-size: 100%;
+	border-radius: 5px;
 	
 }
 #boutonHaut {
