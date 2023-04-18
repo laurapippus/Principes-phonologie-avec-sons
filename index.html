@@ -137,7 +137,6 @@
         </div> <br>
 
         <p class="p_sans_indentation" id="p20.1">où aucune opposition n'est neutralisable.</p> <br><br>
-
     </main>
 
     <aside>
@@ -193,7 +192,6 @@
     <button onclick="versLeHaut()" id="boutonHaut" title="Revenir en haut de la page">Haut de la page</button>
 
     </aside>
-
     <script>
         // Fonction executée lorsqu'on clique sur la voyelle (juste un exemple avec a)
         function jouerVoyelle() {
@@ -203,12 +201,10 @@
 
         // Bouton vers le haut de la page : lignes de codes prises ou largement inspirées de W3 schools - https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
         // Sélectionner le bouton
-
         let monBouton = document.getElementById("boutonHaut");
     
         // Montrer le bouton lorsque l'utilisateur descend 50px
         window.onscroll = function() {montrerBouton()};
-    
         function montrerBouton() {
             if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
                 monBouton.style.display = "block";
@@ -223,11 +219,12 @@
             document.body.scrollTop = 0;
             document.documentElement.scrollTop = 0;
         }
-
     </script>
 </body>
 <footer>
-    <details open="false"> <span class="gras">Référence de l'&oelig;uvre :</span> Troubetzkoy, N. S. (1949). <span class="italique">Principes de phonologie</span>. Traduit par J. Cantineau. Paris : Librairie C. Klincksieck, 392pp. Disponible <a href="https://ia802706.us.archive.org/22/items/principesdephono00trub/principesdephono00trub.pdf" target="blank">ici</a>.<br>
-    <span class="gras">Création de cette page :</span> Laura Marques Pippus.</details>
+    <details open="false"> 
+        <span class="gras">Référence de l'&oelig;uvre :</span> Troubetzkoy, N. S. (1949). <span class="italique">Principes de phonologie</span>. Traduit par J. Cantineau. Paris : Librairie C. Klincksieck, 392pp. Disponible <a href="https://ia802706.us.archive.org/22/items/principesdephono00trub/principesdephono00trub.pdf" target="blank">ici</a>.<br>
+        <span class="gras">Création de cette page :</span> Laura Marques Pippus.
+    </details>
 </footer>
 </html>
