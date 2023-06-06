@@ -10,17 +10,17 @@
 </head>
 <body>
     <audio src="sons/a.ogg" id="a"></audio>
-    <audio src="sons/a_posterieur.ogg" id="a_posterieur"></audio>
-    <audio src="sons/ae.ogg" id="ae"></audio>
+    <audio src="sons/a_posterieur.ogg" id="ɑ"></audio>
+    <audio src="sons/ae.ogg" id="æ"></audio>
     <audio src="sons/e.ogg" id="e"></audio>
-    <audio src="sons/e_rond.ogg" id="e_rond"></audio>
-    <audio src="sons/e_rond_inverse.ogg" id="e_rond_inverse"></audio>
+    <audio src="sons/e_rond.ogg" id="ɛ"></audio>
+    <audio src="sons/e_rond_inverse.ogg" id="ɜ"></audio>
     <audio src="sons/i.ogg" id="i"></audio>
-    <audio src="sons/o_incomplet.ogg" id="o_incomplet"></audio>
+    <audio src="sons/o_incomplet.ogg" id="ɔ"></audio>
     <audio src="sons/o.ogg" id="o"></audio>
-    <audio src="sons/the.ogg" id="the"></audio>
+    <audio src="sons/the.ogg" id="ɵ"></audio>
     <audio src="sons/u.ogg" id="u"></audio>
-    <audio src="sons/w.ogg" id="w"></audio>
+    <audio src="sons/w.ogg" id="ɯ"></audio>
     <audio src="sons/y.ogg" id="y"></audio>
     
     <header>
@@ -194,11 +194,22 @@
 
     </aside>
     <script>
-        // Fonction executée lorsqu'on clique sur la voyelle (juste un exemple avec a)
+        // Sélectionner tous les boutons contenant des voyelles
+        const btns = document.querySelectorAll('input[type="button"]')
+        // Ajouter un événement aux inputs (boutons)
+        btns.forEach((btn) => {
+             btn.addEventListener('click', jouerVoyelle)
+         })
+        // Fonction  qui sera executée lorsqu'on clique sur le bouton
         function jouerVoyelle() {
-            let voyelle = document.getElementById("a");
-            voyelle.play()
+            // Stocker la valeur du bouton. Je sais que 'value' est normalement l'input mis par l'utilisateur.
+            const voyelle = this.value;
+            // Saisir le bon fichier audio
+            const son = document.getElementById(`${voyelle}`);
+            // Éxecuter la fonction
+            son.play();
         }
+
 
         // Bouton vers le haut de la page : lignes de codes prises ou largement inspirées de W3 schools - https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
         // Sélectionner le bouton
