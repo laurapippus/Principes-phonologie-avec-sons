@@ -2,8 +2,7 @@
 
 ## Description
 
-1 une brève description (en français ou en anglais) de votre rendu et de ses fonctionnalités <br>
-livre boutons entendre les phonèmes en question <br>
+Traditionnellement, les livres de phonétique et de phonologie, pour plus complets qu'ils soient dans leur description des phonèmes, ne permettent pas au lecteur ou à la lectrice d'entendre les phonèmes en question. L'objectif du présent projet est de permettre l'écoute des voyelles évoquées dans le deuxième (?) chapitre du livre <i>Principes de phonologie</i> (1938), de Nikolaï Troubetskoy, afin de mieux les saisir. Ainsi, toutes les voyelles présentes dans ce chapitre et notées de façon standard d'après les conventions de l'API (Alphabet Phonétique International) sont associées à un bouton ; lorsque un clique est réalisé sur ce bouton, le phonème vocalique est reproduit.<br>
 
 ## Entendre les phonèmes
 2. au moins une capture illustrant votre travail ; attention, pour la VR, un GIF est requis <br>
