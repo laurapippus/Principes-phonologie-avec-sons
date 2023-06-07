@@ -18,7 +18,7 @@ les sons ? <br>
 ## Sources 
 5. les éventuels copyrights, informations de licence, et autres références de vos sources et ressources y compris en matière de code récupéré <br>
 
-Le texte comprend le x (deuxième?) chapitre du livre <i>Principes de phonologie<i> de Nikolaï Troubetskoy - mettre référence complète <br>
+Le texte comprend le x (deuxième?) chapitre du livre <i>Principes de phonologie</i> de Nikolaï Troubetskoy - mettre référence complète <br>
 Tous les sons des voyelles ont été téléchargés depuis <a href="https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio">Wikipédia - IPA vowel chart with audio<a> <br>
 Le bouton vers le haut de la page a été largement inspiré de <a href="https://www.w3schools.com/howto/howto_js_scroll_to_top.asp">W3Schools - Scroll back to the top<a> <br>
 ## Contexte de développement 
