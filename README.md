@@ -1,5 +1,6 @@
-# Publication numérique
+# Principes de phonologie (N. Troubetskoy) avec sons
 
+## Entendre les phonèmes
 <p>
 1 une brève description (en français ou en anglais) de votre rendu et de ses fonctionnalités <br>
 livre boutons entendre les phonèmes en question <br>
