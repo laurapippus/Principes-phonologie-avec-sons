@@ -201,17 +201,16 @@
         // Ajouter un événement aux inputs (boutons)
         boutons.forEach((bouton) => {
              bouton.addEventListener('click', jouerVoyelle)
-         })
-        // Fonction  qui sera executée lorsqu'on clique sur le bouton
+        })
+        // Fonction executée lorsqu'on clique sur le bouton
         function jouerVoyelle() {
-            // Stocker la valeur du bouton. Je sais que 'value' est normalement l'input mis par l'utilisateur.
+            // Stocker la valeur du bouton
             const voyelle = this.value;
             // Saisir le bon fichier audio
             const son = document.getElementById(`${voyelle}`);
             // Éxecuter la fonction
             son.play();
         }
-
 
         // Bouton vers le haut de la page : lignes de codes prises ou largement inspirées de W3 schools - https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
         // Sélectionner le bouton
