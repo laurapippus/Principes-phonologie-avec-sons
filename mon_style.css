@@ -60,6 +60,10 @@ p {
 	font-size: 100%;
 	font-family: Arial;
 	cursor: pointer;
+	margin: 1px;
+}
+.bouton:hover {
+	background-color: rgb(150, 150, 150)
 }
 .tooltip {
 	background-color: rgb(222, 221, 221);
@@ -73,19 +77,20 @@ p {
 	font-size: 100%;
 	font-family: Arial;
 	cursor: default;
+	margin: 1px;
 }
 .tooltip .tooltiptext {
 	visibility: hidden;
-	width: 120px;
+	width: 150px;
 	background-color: darkblue;
 	color: #fff;
 	text-align: center;
 	font-size: 70%;
 	font-family: Arial;
-	padding: 5px 0;
+	padding: 5px 5px;
 	border-radius: 6px;
 	position: absolute;
-	z-index: 2;
+	z-index: 1;
 }
 .tooltip:hover .tooltiptext {
 	visibility: visible;
