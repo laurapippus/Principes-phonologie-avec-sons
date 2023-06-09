@@ -11,7 +11,7 @@ capture d'écran <br>
 ## Accéder au projet
 Windows et MacOS<br>
 1. Téléchargez le fichier zip et décompressez-le dans un dossier ;
-2. Cliquez deux fois sur le fichier *index.html*.<br>
+2. Cliquez deux fois sur le fichier *index.html*.<br><br>
 OU <br>
 Cliquez ici (lien vers le site ...)
 
