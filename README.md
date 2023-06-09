@@ -14,10 +14,11 @@ Windows et MacOS<br>
 2. Cliquez deux fois sur le fichier *index.html*.<br>
 
 OU <br>
+
 Cliquez ici (lien vers le site ...)
 
 ## Sources 
-Le texte comprend le x (deuxième?) chapitre du livre <i>Principes de phonologie</i> de Nikolai Troubetzkoy :<br> **Troubetzkoy, N. S. (1949). *Principes de phonologie*. Traduit par J. Cantineau. Paris : Librairie C. Klincksieck, 392pp.** Disponible <a href="https://ia802706.us.archive.org/22/items/principesdephono00trub/principesdephono00trub.pdf" target="blank">ici</a>.s<br>
+Le texte comprend le x (deuxième?) chapitre du livre <i>Principes de phonologie</i> de Nikolai Troubetzkoy :<br> **Troubetzkoy, N. S. (1949). *Principes de phonologie*. Traduit par J. Cantineau. Paris : Librairie C. Klincksieck, 392pp.** Disponible <a href="https://ia802706.us.archive.org/22/items/principesdephono00trub/principesdephono00trub.pdf" target="blank">ici</a>.<br>
 Tous les sons des voyelles ont été téléchargés depuis <a href="https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio" target="blank">Wikipédia - IPA vowel chart with audio</a>. <br>
 Le bouton vers le haut de la page a été largement inspiré de <a href="https://www.w3schools.com/howto/howto_js_scroll_to_top.asp" target="blank">W3Schools - Scroll back to the top</a>. <br>
 
