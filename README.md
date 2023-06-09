@@ -9,10 +9,9 @@ L'auteur n'a hélas pas noté toutes les voyelles d'après les conventions adopt
 capture d'écran <br>
 
 ## Accéder au projet
-Windows et MacOS
-*1. Téléchargez le fichier zip et décompressez-le dans un dossier ;
-*2. Cliquez deux fois sur le fichier <i>index.html</i>.<br>
-
+Windows et MacOS<br>
+1. Téléchargez le fichier zip et décompressez-le dans un dossier ;
+2. Cliquez deux fois sur le fichier *index.html*.<br>
 OU <br>
 Cliquez ici (lien vers le site ...)
 
