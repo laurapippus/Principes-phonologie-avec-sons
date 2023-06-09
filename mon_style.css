@@ -78,10 +78,11 @@ p {
 	font-family: Arial;
 	cursor: default;
 	margin: 1px;
+	position: relative;
 }
 .tooltip .tooltiptext {
 	visibility: hidden;
-	width: 150px;
+	width: 170px;
 	background-color: darkblue;
 	color: #fff;
 	text-align: center;
@@ -91,6 +92,8 @@ p {
 	border-radius: 6px;
 	position: absolute;
 	z-index: 1;
+	top: -15px;
+	left: 115%;
 }
 .tooltip:hover .tooltiptext {
 	visibility: visible;
