@@ -3,7 +3,7 @@
 ## Description
 
 Traditionnellement, les livres de phonétique et de phonologie, pour plus complets qu'ils soient dans leur description des phonèmes, ne permettent pas au lecteur ou à la lectrice d'entendre les phonèmes en question. L'objectif du présent projet est de permettre l'écoute des voyelles évoquées dans le deuxième (?) chapitre du livre *Principes de phonologie* (1949), de Nikolai Troubetzkoy, afin de mieux les saisir. Ainsi, toutes les voyelles présentes dans ce chapitre, et notées de façon standard d'après les conventions de l'API (Alphabet Phonétique International), sont associées à un bouton ; lorsque un clique est réalisé sur ce bouton, le phonème vocalique est reproduit.<br>
-L'auteur n'a hélas pas noté toutes les voyelles d'après les conventions adoptées par l'API. Ainsi, dans les cas où la voyelle n'est pas notée de façon standard, un message indicant l'impossibilité de reproduire le phonème s'affiche lorsque la souris est positionnée sur la voyelle. 
+L'auteur n'a hélas pas noté toutes les voyelles d'après les conventions adoptées dans l'API. Ainsi, dans les cas où la voyelle n'est pas notée de façon standard, un message indicant l'impossibilité de reproduire le phonème s'affiche lorsque la souris est positionnée sur la voyelle. 
 
 ## Entendre les phonèmes
 capture d'écran <br>
@@ -18,7 +18,7 @@ OU <br>
 Cliquez ici (lien vers le site ...)
 
 ## Sources 
-Le texte comprend le x (deuxième?) chapitre du livre <i>Principes de phonologie</i> de Nikolai Troubetzkoy :<br> **Troubetzkoy, N. S. (1949). *Principes de phonologie*. Traduit par J. Cantineau. Paris : Librairie C. Klincksieck, 392pp.** Disponible [ici](https://ia802706.us.archive.org/22/items/principesdephono00trub/principesdephono00trub.pdf).<br>
+Le texte comprend le troisième chapitre du livre <i>Principes de phonologie</i> de Nikolai Troubetzkoy (pages 100-112) :<br> **Troubetzkoy, N. S. (1949). *Principes de phonologie*. Traduit par J. Cantineau. Paris : Librairie C. Klincksieck, 392pp.** Disponible [ici](https://ia802706.us.archive.org/22/items/principesdephono00trub/principesdephono00trub.pdf).<br>
 Tous les sons des voyelles ont été téléchargés depuis [Wikipédia - IPA vowel chart with audio](https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio).<br>
 Le bouton vers le haut de la page a été largement inspiré de [W3Schools - Scroll back to the top button](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp).<br>
 
