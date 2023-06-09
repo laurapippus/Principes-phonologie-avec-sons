@@ -20,7 +20,7 @@ Cliquez ici (lien vers le site ...)
 ## Sources 
 Le texte comprend le x (deuxième?) chapitre du livre <i>Principes de phonologie</i> de Nikolai Troubetzkoy :<br> **Troubetzkoy, N. S. (1949). *Principes de phonologie*. Traduit par J. Cantineau. Paris : Librairie C. Klincksieck, 392pp.** Disponible [ici](https://ia802706.us.archive.org/22/items/principesdephono00trub/principesdephono00trub.pdf).<br>
 Tous les sons des voyelles ont été téléchargés depuis [Wikipédia - IPA vowel chart with audio](https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio).<br>
-Le bouton vers le haut de la page a été largement inspiré de [W3Schools - Scroll back to the top](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp).<br>
+Le bouton vers le haut de la page a été largement inspiré de [W3Schools - Scroll back to the top button](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp).<br>
 
 ## Contexte de développement 
 Ce projet a été développé dans le cadre du cours "Publication numérique" (2021) dispensé par Isaac Pante (SLI, Lettres, UNIL).
