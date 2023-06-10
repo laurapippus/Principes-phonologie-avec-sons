@@ -20,7 +20,7 @@ Ou <br>
 Cliquez [ici](https://laurapippus.github.io/Principes-phonologie-avec-sons/) (lien vers Github Pages).
 
 ## Sources 
-+ Le texte reproduit dans ce projet comprend les parties A et B du troisième chapitre du livre <i>Principes de phonologie</i> de Nikolai Troubetzkoy (pages 100-112) :<br> **Troubetzkoy, N. S. (1949). *Principes de phonologie*. Traduit par J. Cantineau. Paris : Librairie C. Klincksieck, 392pp.** Disponible [ici](https://ia802706.us.archive.org/22/items/principesdephono00trub/principesdephono00trub.pdf).<br>
++ Le texte reproduit dans ce projet comprend les parties A et B du troisième chapitre du livre <i>Principes de phonologie</i> de Nikolai Troubetzkoy (pages 100-112) :<br> **Troubetzkoy, N. S. (1949). *Principes de phonologie*. Traduit par J. Cantineau. Paris : Librairie C. Klincksieck, 392pp.** Disponible intégralement [ici](https://ia802706.us.archive.org/22/items/principesdephono00trub/principesdephono00trub.pdf).<br>
 + Tous les sons des voyelles ont été téléchargés depuis [Wikipédia - IPA vowel chart with audio](https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio).<br>
 + Le bouton vers le haut de la page a été largement inspiré de [W3Schools - Scroll back to the top button](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp).<br>
 
