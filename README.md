@@ -4,8 +4,9 @@
 
 Traditionnellement, les livres de phonétique et de phonologie, pour plus complets qu'ils soient dans leur description des phonèmes, ne permettent pas au lecteur ou à la lectrice d'entendre les phonèmes en question. L'objectif du présent projet est de permettre l'écoute des voyelles évoquées dans le troisième chapitre du livre *Principes de phonologie* (1949), de Nikolai Troubetzkoy, afin de mieux les saisir.<br> 
 ### Entendre les phonèmes
-Toutes les voyelles présentes dans ce chapitre, et notées de façon standard d'après les conventions de l'[API](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international) (Alphabet Phonétique International), sont associées à un bouton ; lorsqu'un clique est réalisé sur ce bouton, le phonème vocalique est reproduit.<br>
+Toutes les voyelles présentes dans ce chapitre, et notées de façon standard d'après les conventions de l'[API](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international) (Alphabet Phonétique International), sont associées à un bouton ; lorsqu'un clique est réalisé sur ce bouton, le phonème vocalique est reproduit.<br><br><br>
 <img src="images/printScreen_1.png">
+<br><br>
 L'auteur n'a hélas pas noté toutes les voyelles d'après les conventions adoptées dans l'API. Ainsi, dans les cas où la voyelle n'est pas notée de façon standard, un message indicant l'impossibilité de reproduire le phonème s'affiche lorsque la souris est positionnée sur la voyelle.<br> 
 
 capture d'écran <br>
