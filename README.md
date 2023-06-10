@@ -13,11 +13,12 @@ Finalement, un bouton *scroll to the top* devient visible lorsque l'utilisateur 
 ## Accéder au projet
 Windows et MacOS :
 1. Téléchargez le fichier zip et décompressez-le dans un dossier ;
-2. Ouvrez le dossier et cliquez deux fois sur le fichier *index.html*.<br>
+2. Ouvrez le dossier et cliquez deux fois sur le fichier *index.html* ;<br>
+3. Utilisez Chrome ou Firefox (les sons - en format .ogg - ne fonctionnent pas avec Safari).
 
 Ou <br>
 
-Cliquez [ici](https://laurapippus.github.io/Principes-phonologie-avec-sons/) (lien vers Github Pages).<br>
+Cliquez [ici](https://laurapippus.github.io/Principes-phonologie-avec-sons/) (lien vers Github Pages). Préférez également Chrome ou Firefox.<br>
 N'oubliez pas d'activer le son de votre ordinateur, tablette ou téléphone !
 
 ## Sources 
