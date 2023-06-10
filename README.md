@@ -18,6 +18,7 @@ Windows et MacOS<br>
 Ou <br>
 
 Cliquez [ici](https://laurapippus.github.io/Principes-phonologie-avec-sons/) (lien vers Github Pages).
+N'oubliez pas d'activer le son de votre ordinateur, tablette ou téléphone !
 
 ## Sources 
 + Le texte reproduit dans ce projet comprend les parties A et B du troisième chapitre du livre <i>Principes de phonologie</i> de Nikolai Troubetzkoy (pages 100-112) :<br> **Troubetzkoy, N. S. (1949). *Principes de phonologie*. Traduit par J. Cantineau. Paris : Librairie C. Klincksieck, 392pp.** Disponible intégralement [ici](https://ia802706.us.archive.org/22/items/principesdephono00trub/principesdephono00trub.pdf).<br>
