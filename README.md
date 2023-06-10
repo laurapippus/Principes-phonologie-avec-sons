@@ -12,6 +12,7 @@ Finalement, un bouton *scroll to the top* devient visible lorsque l'utilisateur 
 
 ## Accéder au projet
 N'oubliez pas d'activer le son de votre ordinateur, tablette ou téléphone !<br>
+
 Windows et MacOS<br>
 1. Téléchargez le fichier zip et décompressez-le dans un dossier ;
 2. Ouvrez le dossier et cliquez deux fois sur le fichier *index.html*.<br>
