@@ -11,13 +11,14 @@ L'auteur n'a hélas pas noté toutes les voyelles d'après les conventions adopt
 Finalement, un bouton *scroll to the top* devient visible lorsque l'utilisateur ou utilisatrice descend dans la page, et chaque note mise par l'auteur est ancrée dans une note de bas de page, permettant ainsi de cliquer sur la note et de l'accéder plus facilement. 
 
 ## Accéder au projet
-Windows et MacOS :<br>
+Windows et MacOS :
 1. Téléchargez le fichier zip et décompressez-le dans un dossier ;
 2. Ouvrez le dossier et cliquez deux fois sur le fichier *index.html*.<br>
 
 Ou <br>
 
 Cliquez [ici](https://laurapippus.github.io/Principes-phonologie-avec-sons/) (lien vers Github Pages).<br>
+
 N'oubliez pas d'activer le son de votre ordinateur, tablette ou téléphone !
 
 ## Sources 
