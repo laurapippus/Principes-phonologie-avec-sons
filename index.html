@@ -270,18 +270,16 @@
         // Bouton vers le haut de la page : lignes de codes prises ou largement inspirées de W3 schools - https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
         // Sélectionner le bouton
         let monBouton = document.getElementById("boutonHaut");
-    
         // Montrer le bouton lorsque l'utilisateur descend 50px
         window.onscroll = function() {montrerBouton()};
         function montrerBouton() {
-            if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+            if (document.body.scrollTop > 70 || document.documentElement.scrollTop > 70) {
                 monBouton.style.display = "block";
                 } 
             else {
             monBouton.style.display = "none";
             }
         }
-    
         // Fonction executée lorsqu'on clique sur le bouton
         function versLeHaut() {
             document.body.scrollTop = 0;
