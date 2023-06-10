@@ -18,7 +18,6 @@ Windows et MacOS :
 Ou <br>
 
 Cliquez [ici](https://laurapippus.github.io/Principes-phonologie-avec-sons/) (lien vers Github Pages).<br><br>
-
 N'oubliez pas d'activer le son de votre ordinateur, tablette ou téléphone !
 
 ## Sources 
