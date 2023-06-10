@@ -1,8 +1,8 @@
 # Principes de phonologie (N. Troubetzkoy) avec sons
 
 ## Description
-
 Traditionnellement, les livres de phonétique et de phonologie, pour plus complets qu'ils soient dans leur description des phonèmes, ne permettent pas au lecteur ou à la lectrice d'entendre les phonèmes en question. L'objectif du présent projet est de permettre l'écoute des voyelles évoquées dans le troisième chapitre du livre *Principes de phonologie* (1949), de Nikolai Troubetzkoy, afin de mieux les saisir.
+
 ### Entendre les phonèmes
 Toutes les voyelles présentes dans ce chapitre, et notées de façon standard d'après les conventions de l'[API](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international) (Alphabet Phonétique International), sont associées à un bouton ; lorsqu'un clique est réalisé sur ce bouton, le phonème vocalique est reproduit.<br><br>
 ![capture d'écran 1](images/printScreen_1.png)<br><br>
@@ -13,10 +13,8 @@ Finalement, un bouton *scroll to the top* devient visible lorsque l'utilisateur 
 ## Accéder au projet
 Windows et MacOS<br>
 1. Téléchargez le fichier zip et décompressez-le dans un dossier ;
-2. Cliquez deux fois sur le fichier *index.html*.<br>
-
+2. Ouvrez le dossier et cliquez deux fois sur le fichier *index.html*.<br>
 Ou <br>
-
 Cliquez [ici](https://laurapippus.github.io/Principes-phonologie-avec-sons/) (lien vers Github Pages).
 
 ## Sources 
