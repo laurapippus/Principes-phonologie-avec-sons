@@ -76,7 +76,6 @@ p {
 	font-size: 100%;
 	font-family: Arial;
 	cursor: default;
-	margin: 1px;
 	position: relative;
 }
 .tooltip .tooltiptext {
